@@ -49,8 +49,6 @@ DON'T USE FOR MINING OR ILLEGAL USE
 
 DON'T RECODE THIS SC!.
 
-### Original repo: This has been deleted, and I fork again through the hands of a few dozen people .-.
-
 ### Screenshots
 
 **Configuration**
@@ -58,12 +56,6 @@ DON'T RECODE THIS SC!.
 
 **Network speed - Speedtest.net auto**
 ![alt text](https://cdn.discordapp.com/attachments/886275175480426557/920171007115927592/unknown.png)
-
-**Network speed - Speedtest.net Viettel**
-![alt text](https://cdn.discordapp.com/attachments/886275175480426557/920171491046359100/unknown.png)
-
-**Speed SSD**
-![alt text](https://cdn.discordapp.com/attachments/886275175480426557/920170716660367400/unknown.png)
 
 **Last warning**
 ![alt_text](https://cdn.discordapp.com/attachments/886275175480426557/920977456406609940/unknown.png)
